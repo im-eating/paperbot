@@ -1,0 +1,335 @@
+[
+  {
+		"name": "crimson",
+    "id": "crimson",
+		"type": "color",
+    "price": 7000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "sky blue",
+    "id": "sky blue",
+		"type": "color",
+    "price": 6500,
+    "reqRank": 49,
+    "isItem": true
+	},
+  {
+		"name": "cobalt",
+    "id": "cobalt",
+		"type": "color",
+    "price": 6000,
+    "reqRank": 48,
+    "isItem": true
+	},
+  {
+		"name": "purple",
+    "id": "purple",
+		"type": "color",
+    "price": 5800,
+    "reqRank": 47,
+    "isItem": true
+	},
+  {
+		"name": "titanium white",
+    "id": "titanium white",
+		"type": "color",
+    "price": 5600,
+    "reqRank": 45,
+    "isItem": true
+	},
+  {
+		"name": "black",
+    "id": "black",
+		"type": "color",
+    "price": 5600,
+    "reqRank": 45,
+    "isItem": true
+	},
+  {
+		"name": "forest green",
+    "id": "forest green",
+		"type": "color",
+    "price": 5500,
+    "reqRank": 44,
+    "isItem": true
+	},
+	{
+		"name": "lime",
+    "id": "lime",
+		"type": "color",
+    "price": 5400,
+    "reqRank": 43,
+    "isItem": true
+	},
+  {
+		"name": "orange",
+    "id": "orange",
+		"type": "color",
+    "price": 5000,
+    "reqRank": 41,
+    "isItem": true
+	},
+  {
+		"name": "saffron",
+    "id": "saffron",
+		"type": "color",
+    "price": 4600,
+    "reqRank": 40,
+    "isItem": true
+	},
+  {
+		"name": "grey",
+    "id": "grey",
+		"type": "color",
+    "price": 1300,
+    "reqRank": 35,
+    "isItem": true
+	},
+  {
+		"name": "pink",
+    "id": "pink",
+		"type": "color",
+    "price": 960,
+    "reqRank": 32,
+    "isItem": true
+	},
+  {
+		"name": "burnt sienna",
+    "id": "burnt sienna",
+		"type": "color",
+    "price": 800,
+    "reqRank": 30,
+    "isItem": true
+	},
+	{
+    "name": "DJ",
+    "id": "dj",
+		"type": "role",
+    "description": "Gives you the DJ role",
+    "price": 300,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "1.5x server xp boost",
+    "id": "1.5x server xp boost",
+		"type": "serverboost",
+    "description": "When activated, xp earnings from messages is multiplied by 1.5x for 1 hours",
+    "price": 35,
+    "reqRank": 10,
+    "isItem": true
+	},
+  {
+		"name": "2x server xp boost",
+    "id": "2x server xp boost",
+		"type": "serverboost",
+    "description": "When activated, xp earnings from messages is multiplied by 2x for 1 hours",
+    "price": 50,
+    "reqRank": 10,
+    "isItem": true
+	},
+  {
+		"name": "1.5x server crate boost",
+    "id": "1.5x server crate boost",
+		"type": "serverboost",
+    "description": "When activated, crate finding from messages is multiplied by 1.5x for 1 hours",
+    "price": 50,
+    "reqRank": 10,
+    "isItem": true
+	},
+  {
+		"name": "2x server crate boost",
+    "id": "2x server crate boost",
+		"type": "serverboost",
+    "description": "When activated, crate finding from messages is multiplied by 2x for 1 hours",
+    "price": 70,
+    "reqRank": 10,
+    "isItem": true
+	},
+  {
+		"name": "embed",
+    "id": "embed",
+		"type": "profile",
+    "description": "Makes your profile an embed",
+    "price": 500,
+    "reqRank": 1,
+    "isItem": true
+	},
+  {
+		"name": "increase badge limit",
+    "id": "badges",
+		"type": "profile",
+    "description": "Increases the amount of badges shown on your profile",
+    "price": 150,
+    "reqRank": 1,
+    "isItem": false
+	},
+  {
+		"name": "change header",
+    "id": "subheader",
+		"type": "profile",
+    "description": "Change the header of your profile (requires embed)",
+    "price": 50,
+    "reqRank": 1,
+    "isItem": false
+	},
+  {
+		"name": "pfp",
+    "id": "pfp",
+		"type": "profile",
+    "description": "Adds a profile picture to your profile in the thumbnail location",
+    "price": 150,
+    "reqRank": 30,
+    "isItem": true
+	},
+  {
+		"name": "progress bar",
+    "id": "progress bar",
+		"type": "profile",
+    "description": "Adds progress bars to challenges and your profile",
+    "price": 150,
+    "reqRank": 60,
+    "isItem": true
+	},
+  {
+    "name": "auto challenge activation",
+    "id": "auto challenge",
+		"type": "miscItem",
+    "description": "Automatically activates challenges for you!",
+    "price": 100,
+    "reqRank": 60,
+    "isItem": true
+  },
+  {
+		"name": "black border",
+    "id": "black",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "Black border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "cobalt border",
+    "id": "cobalt",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "cobalt border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "grey border",
+    "id": "grey",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "grey border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "crimson border",
+    "id": "crimson",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "crimson border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "purple border",
+    "id": "purple",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "purple border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "forest green border",
+    "id": "forest green",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "forest green border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "lime border",
+    "id": "lime",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "lime border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "orange border",
+    "id": "orange",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "orange border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "titanium white border",
+    "id": "titanium white",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "titanium white border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "burnt sienna border",
+    "id": "burnt sienna",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "burnt sienna border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "sky blue border",
+    "id": "sky blue",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "sky blue border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "saffron border",
+    "id": "saffron",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "saffron border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	},
+  {
+		"name": "pink border",
+    "id": "pink",
+		"type": "profile",
+    "subtype": "pfpborder",
+    "description": "pink border around your profile picture",
+    "price": 2000,
+    "reqRank": 50,
+    "isItem": true
+	}
+]

@@ -1,0 +1,160 @@
+[
+  {
+		"name": "aqua",
+		"tier": 3,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "electrum",
+		"tier": 3,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "sunset",
+		"tier": 3,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "acacia",
+		"tier": 2,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "coral",
+		"tier": 2,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "emerald",
+		"tier": 2,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "army green",
+		"tier": 1,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "barbie pink",
+		"tier": 1,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "grape",
+		"tier": 1,
+    "type": "color",
+    "series": "normal"
+	},
+  {
+		"name": "acacia border",
+		"tier": 3,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "indigo border",
+		"tier": 3,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "coral border",
+		"tier": 2,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "electrum border",
+		"tier": 2,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "army green border",
+		"tier": 1,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "barbie pink border",
+		"tier": 1,
+    "type": "pfpborder",
+    "series": "normal"
+	},
+  {
+		"name": "azure",
+		"tier": 3,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "lavender",
+		"tier": 3,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "gold",
+		"tier": 2,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "shamrock",
+		"tier": 2,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "fuchsia",
+		"tier": 1,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "silver",
+		"tier": 1,
+    "type": "color",
+    "series": "accolade"
+	},
+  {
+		"name": "azure border",
+		"tier": 3,
+    "type": "pfpborder",
+    "series": "accolade"
+	},
+  {
+		"name": "shamrock border",
+		"tier": 3,
+    "type": "pfpborder",
+    "series": "accolade"
+	},
+  {
+		"name": "poppy border",
+		"tier": 2,
+    "type": "pfpborder",
+    "series": "accolade"
+	},
+
+
+  {
+		"name": "lavender border",
+		"tier": 1,
+    "type": "pfpborder",
+    "series": "accolade"
+	},
+  {
+		"name": "fuchsia border",
+		"tier": 1,
+    "type": "pfpborder",
+    "series": "accolade"
+	}
+]

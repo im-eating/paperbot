@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Crate Finder I",
+    "description": "Find two crates from messaging",
+    "id": 1,
+    "type": "daily",
+    "category": "findcrate",
+    "difficulty": "very easy",
+    "value": 2
+  },
+  {
+    "title": "Crate Finder II",
+    "description": "Find four crates from messaging",
+    "id": 2,
+    "type": "daily",
+    "category": "findcrate",
+    "difficulty": "easy",
+    "value": 4
+  },
+  {
+    "title": "Crate Finder III",
+    "description": "Find six crates from messaging",
+    "id": 3,
+    "type": "daily",
+    "category": "findcrate",
+    "difficulty": "medium",
+    "value": 6
+  },
+  {
+    "title": "Crate Finder IV",
+    "description": "Find eight crates from messaging",
+    "id": 4,
+    "type": "daily",
+    "category": "findcrate",
+    "difficulty": "hard",
+    "value": 8
+  },
+  {
+    "title": "Treasure Chest I",
+    "description": "Open two crates using p.opencrate",
+    "id": 5,
+    "type": "daily",
+    "category": "opencrate",
+    "difficulty": "very easy",
+    "value": 2
+  },
+  {
+    "title": "Treasure Chest II",
+    "description": "Open four crates using p.opencrate",
+    "id": 6,
+    "type": "daily",
+    "category": "opencrate",
+    "difficulty": "easy",
+    "value": 4
+  },
+  {
+    "title": "Treasure Chest III",
+    "description": "Open six crates using p.opencrate",
+    "id": 7,
+    "type": "daily",
+    "category": "opencrate",
+    "difficulty": "medium",
+    "value": 6
+  },
+  {
+    "title": "Crate Upgrade I",
+    "description": "Trade up crates using p.tradeup",
+    "id": 8,
+    "type": "daily",
+    "category": "tradecrate",
+    "difficulty": "very easy",
+    "value": 1
+  },
+  {
+    "title": "Crate Upgrade II",
+    "description": "Trade up crates using p.tradeup three times",
+    "id": 9,
+    "type": "daily",
+    "category": "tradecrate",
+    "difficulty": "medium",
+    "value": 3
+  },
+  {
+    "title": "Active Chatter I",
+    "description": "Send 70 messages in any xp gaining channel",
+    "id": 10,
+    "type": "daily",
+    "category": "messagecount",
+    "difficulty": "very easy",
+    "value": 70
+  },
+  {
+    "title": "Active Chatter II",
+    "description": "Send 120 messages in any xp gaining channel",
+    "id": 11,
+    "type": "daily",
+    "category": "messagecount",
+    "difficulty": "easy",
+    "value": 120
+  },
+  {
+    "title": "Active Chatter III",
+    "description": "Send 200 messages in any xp gaining channel",
+    "id": 12,
+    "type": "daily",
+    "category": "messagecount",
+    "difficulty": "medium",
+    "value": 200
+  },
+  {
+    "title": "Active Chatter IV",
+    "description": "Send 280 messages in any xp gaining channel",
+    "id": 13,
+    "type": "daily",
+    "category": "messagecount",
+    "difficulty": "hard",
+    "value": 280
+  },
+  {
+    "title": "Active Chatter V",
+    "description": "Send 350 messages in any xp gaining channel",
+    "id": 14,
+    "type": "daily",
+    "category": "messagecount",
+    "difficulty": "very hard",
+    "value": 350
+  },
+  {
+    "title": "Blank Miner I",
+    "description": "Earn 15 blanks",
+    "id": 15,
+    "type": "daily",
+    "category": "blankcount",
+    "difficulty": "easy",
+    "value": 15
+  },
+  {
+    "title": "Blank Miner II",
+    "description": "Earn 30 blanks",
+    "id": 16,
+    "type": "daily",
+    "category": "blankcount",
+    "difficulty": "medium",
+    "value": 30
+  },
+  {
+    "title": "Blank Miner III",
+    "description": "Earn 45 blanks",
+    "id": 17,
+    "type": "daily",
+    "category": "blankcount",
+    "difficulty": "hard",
+    "value": 45
+  },
+  {
+    "title": "Blank Miner IV",
+    "description": "Earn 60 blanks",
+    "id": 18,
+    "type": "daily",
+    "category": "blankcount",
+    "difficulty": "very hard",
+    "value": 60
+  },
+  {
+    "title": "Crate Upgrade III",
+    "description": "Trade up crates using p.tradeup five times",
+    "id": 19,
+    "type": "daily",
+    "category": "tradecrate",
+    "difficulty": "very hard",
+    "value": 5
+  }
+]

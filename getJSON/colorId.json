@@ -1,0 +1,126 @@
+[
+  {
+		"name": "crimson",
+		"id": "#e00000"
+	},
+  {
+		"name": "sky blue",
+		"id": "#62c8ec"
+	},
+  {
+		"name": "cobalt",
+		"id": "#0047ab"
+	},
+  {
+		"name": "purple",
+		"id": "#67329c"
+	},
+  {
+		"name": "titanium white",
+		"id": "#e2e2e2"
+	},
+  {
+		"name": "black",
+		"id": "#010101"
+	},
+  {
+		"name": "forest green",
+		"id": "#1aa31a"
+	},
+	{
+		"name": "lime",
+		"id": "#00ff17"
+	},
+  {
+		"name": "orange",
+		"id": "#ff6f00"
+	},
+  {
+		"name": "saffron",
+		"id": "#d4c900"
+	},
+  {
+		"name": "grey",
+		"id": "#6c6c6c"
+	},
+  {
+		"name": "pink",
+		"id": "#ff69b4"
+	},
+  {
+		"name": "burnt sienna",
+		"id": "#974222"
+	},
+  {
+		"name": "aqua",
+    "id": "#85efcc"
+	},
+  {
+		"name": "electrum",
+    "id": "#ffd57b"
+	},
+  {
+		"name": "acacia",
+    "id": "#f45c49"
+	},
+  {
+		"name": "sunset",
+    "id": "#ffa81c"
+	},
+  {
+		"name": "emerald",
+    "id": "#00722f"
+	},
+  {
+		"name": "grape",
+    "id": "#2d0046"
+	},
+  {
+		"name": "coral",
+    "id": "#ff9966"
+	},
+  {
+		"name": "army green",
+    "id": "#5f6c1f"
+	},
+  {
+		"name": "barbie pink",
+    "id": "#e0218a"
+	},
+  {
+		"name": "azure",
+    "id": "#1e8cff"
+	},
+  {
+		"name": "lavender",
+    "id": "#b9b9ff"
+	},
+  {
+		"name": "gold",
+    "id": "#dda52e"
+	},
+  {
+		"name": "shamrock",
+    "id": "#009e60"
+	},
+  {
+		"name": "fuchsia",
+    "id": "#e75cdc"
+	},
+  {
+		"name": "silver",
+    "id": "#c3c3c3"
+	},
+  {
+		"name": "bronze",
+    "id": "#bd752e"
+	},
+  {
+		"name": "poppy",
+    "id": "#dc252f"
+	},
+  {
+		"name": "indigo",
+    "id": "#2d00e1"
+	}
+]

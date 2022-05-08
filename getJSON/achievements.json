@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Timer master I",
+    "category": "minigame",
+    "requires": "none",
+    "type": "timerScore",
+    "desc": "Acheive a score of 10 milliseconds",
+    "prize": [["crate", "challenge crate 1"]],
+    "players": []
+  },
+  {
+    "name": "Timer master II",
+    "category": "minigame",
+    "requires": "Timer master I",
+    "type": "timerScore",
+    "desc": "Acheive a score of 1 milliseconds",
+    "prize": [["crate", "challenge crate 2"]],
+    "players": []
+  },
+  {
+    "name": "Timer master III",
+    "category": "minigame",
+    "requires": "Timer master II",
+    "type": "timerScore",
+    "desc": "Acheive a score of 100 microseconds (0.1 milliseconds)",
+    "prize": [["crate", "challenge crate 2"], ["crate", "accolade crate 3"]],
+    "players": []
+  },
+  {
+    "name": "Timer master IV",
+    "category": "minigame",
+    "requires": "Timer master III",
+    "type": "timerScore",
+    "desc": "Acheive a score of 1 microsecond (0.001 milliseconds)",
+    "prize": [["crate", "challenge crate 3"], ["crate", "accolade crate 2"]],
+    "players": []
+  },
+  {
+    "name": "Timer god",
+    "category": "minigame",
+    "requires": "Timer master IV",
+    "type": "timerScore",
+    "desc": "Acheive a score of 100 nanoseconds (0.0001 milliseconds)",
+    "prize": [["crate", "challenge crate 3"], ["badge", "Timer god"]],
+    "players": []
+  }
+]

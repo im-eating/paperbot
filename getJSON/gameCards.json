@@ -1,0 +1,244 @@
+[
+  {
+    "name": "Dummy Human",
+    "id": "dummy_human",
+    "attributes": ["human"],
+    "desc": "A loyal but stupid human, ready to stand up to anything in their way",
+    "cost": 0,
+    "damage": 1,
+    "health": 1
+  },
+  {
+    "name": "Fighter Human",
+    "id": "fighter_human",
+    "attributes": ["human"],
+    "desc": "A dummy human equipped with a bat",
+    "cost": 1,
+    "damage": 2,
+    "health": 1
+  },
+  {
+    "name": "Armored Human",
+    "id": "armored_human",
+    "attributes": ["human"],
+    "desc": "A dummy human wearing clothes",
+    "cost": 1,
+    "damage": 1,
+    "health": 3
+  },
+  {
+    "name": "Tank Human",
+    "id": "tank_human",
+    "attributes": ["human"],
+    "desc": "An incredibly obese dummy human",
+    "cost": 2,
+    "damage": 1,
+    "health": 5
+  },
+  {
+    "name": "Super Human",
+    "id": "super_human",
+    "attributes": ["human"],
+    "desc": "A dummy human on steroids",
+    "cost": 4,
+    "damage": 2,
+    "health": 6
+  },
+  {
+    "name": "Sword Human",
+    "id": "sword_human",
+    "attributes": ["human"],
+    "desc": "A dummy human equipped with a super sharp sword",
+    "cost": 3,
+    "damage": 3,
+    "health": 2
+  },
+  {
+    "name": "Explosive Human",
+    "id": "explosive_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who throws grenades",
+    "cost": 4,
+    "damage": 2,
+    "health": 2,
+    "passive": [
+      [
+        "name": "Explosive grenade",
+        "ability": "damage Xadjacent 1, on Oself attack"
+      ]
+    ]
+  },
+  {
+    "name": "Defender Human",
+    "id": "defender_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who has friends",
+    "pDesc": "takes all incoming damage to any of your cards",
+    "cost": 2,
+    "damage": 0,
+    "health": 5,
+    "passive": [
+      [
+        "name": "Protect my friends",
+        "ability": "redirect Xteam self all, on Xteam attack"
+      ]
+    ]
+  },
+  {
+    "name": "Toxic Human",
+    "id": "toxic_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who plays rocket league",
+    "pDesc": "attacks deal 1 DOT for 2 rounds",
+    "cost": 2,
+    "damage": 1,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Toxic",
+        "ability": "dot Xtarget 1 2, after Oself attack"
+      ]
+    ]
+  },
+  {
+    "name": "Healing Human",
+    "id": "healing_human",
+    "attributes": ["human"],
+    "desc": "A dummy human with a first aid kit",
+    "pDesc": "Every turn adds 1 hitpoint to adjacent team cards and themself",
+    "cost": 1,
+    "damage": 0,
+    "health": 2,
+    "passive": [
+      [
+        "name": "Heal",
+        "ability": "heal Oadjacent 1, on Oself attack"
+      ],
+      [
+        "name": "Healself",
+        "ability": "heal Oself 1, on Oself attack"
+      ]
+    ]
+  },
+  {
+    "name": "Spike Human",
+    "id": "spike_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who throws sharp spikes and wears spike armor",
+    "pDesc": "attacks pierce through opponents cards, dealing damage to the opposing player",
+    "cost": 5,
+    "damage": 3,
+    "health": 5,
+    "passive": [
+      [
+        "name": "Piercing Spikes",
+        "ability": "damage Xplayer 1, on Oself attack"
+      ]
+    ]
+  },
+  {
+    "name": "Icy Human",
+    "id": "icy_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who freezes opponents",
+    "pDesc": "icy attacks slows the opposing card, causing them to permanently take one extra turn to attack",
+    "cost": 2,
+    "damage": 1,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Cold ice",
+        "ability": "slow Xtarget 1, on Oself attack"
+      ]
+    ]
+  },
+  {
+    "name": "Mirror Human",
+    "id": "mirror_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who stole a special mirror",
+    "pDesc": "reflects half of incoming damage (rounds down)",
+    "cost": 2,
+    "damage": 1,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Reflective mirror",
+        "ability": "reflect Xtarget %50"
+      ]
+    ]
+  },
+  {
+    "name": "Team Human",
+    "id": "team_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who can work with others",
+    "pDesc": "If three or more team humans are played in your hand, all team humans deal +2 damage",
+    "cost": 2,
+    "damage": 1,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Teamwork",
+        "ability": "buffdamage Oself 2, if count team_human >= 3"
+      ]
+    ]
+  },
+  {
+    "name": "Mercenary Human",
+    "id": "mercenary_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who sells dead bodies",
+    "pDesc": "Earns 1 money for every kill",
+    "cost": 5,
+    "damage": 3,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Bounty hunter",
+        "ability": "earn Oplayer 1, on Oself kill"
+      ]
+    ]
+  },
+  {
+    "name": "Money Human",
+    "id": "money_human",
+    "attributes": ["human"],
+    "desc": "A dummy human who has a job",
+    "pDesc": "Earns 1 money ",
+    "cost": 3,
+    "damage": 0,
+    "health": 4,
+    "passive": [
+      [
+        "name": "Cash generation",
+        "ability": "earn Oplayer 1, on Oself attack"
+      ]
+    ]
+  },
+
+  {
+    "name": "Engineer Human",
+    "id": "engineer_human",
+    "attributes": ["human"],
+    "desc": "A dummy human that has robots",
+    "pDesc": "Does +2 damage to bots\nAdjacent bots regenerate +1 health per round",
+    "cost": 3,
+    "damage": 1,
+    "health": 3,
+    "passive": [
+      [
+        "name": "Increased Bot damage",
+        "ability": "buffdamage Oself 2, if attribute Xtarget = bot"
+      ],
+      [
+        "name": "Increased Bot health 1",
+        "ability": "heal Oleft 1, if id attribute Oleft = bot, on Oself attack"
+      ],
+      [
+        "name": "Increased Bot health 2",
+        "ability": "heal Oright 1, if id attribute Oright = bot, on Oself attack"
+      ]
+    ]
+  }
+]

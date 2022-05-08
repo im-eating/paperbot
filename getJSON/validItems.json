@@ -1,0 +1,426 @@
+[
+  {
+		"name": "crimson",
+		"type": "color"
+	},
+  {
+		"name": "sky blue",
+		"type": "color"
+	},
+  {
+		"name": "cobalt",
+		"type": "color"
+	},
+  {
+		"name": "purple",
+		"type": "color"
+	},
+  {
+		"name": "titanium white",
+		"type": "color"
+	},
+  {
+		"name": "black",
+		"type": "color"
+	},
+  {
+		"name": "forest green",
+		"type": "color"
+	},
+	{
+		"name": "lime",
+		"type": "color"
+	},
+  {
+		"name": "orange",
+		"type": "color"
+	},
+  {
+		"name": "saffron",
+		"type": "color"
+	},
+  {
+		"name": "grey",
+		"type": "color"
+	},
+  {
+		"name": "pink",
+		"type": "color"
+	},
+  {
+		"name": "burnt sienna",
+		"type": "color"
+	},
+	{
+    "name": "DJ",
+		"type": "role"
+	},
+  {
+		"name": "embed",
+		"type": "profile"
+	},
+  {
+		"name": "aqua",
+    "type": "color"
+	},
+  {
+		"name": "electrum",
+    "type": "color"
+	},
+  {
+		"name": "acacia",
+    "type": "color"
+	},
+  {
+		"name": "sunset",
+    "type": "color"
+	},
+  {
+		"name": "emerald",
+    "type": "color"
+	},
+  {
+		"name": "grape",
+    "type": "color"
+	},
+  {
+		"name": "coral",
+    "type": "color"
+	},
+  {
+		"name": "army green",
+    "type": "color"
+	},
+  {
+		"name": "barbie pink",
+    "type": "color"
+	},
+  {
+		"name": "azure",
+    "type": "color"
+	},
+  {
+		"name": "lavender",
+    "type": "color"
+	},
+  {
+		"name": "gold",
+    "type": "color"
+	},
+  {
+		"name": "shamrock",
+    "type": "color"
+	},
+  {
+		"name": "fuchsia",
+    "type": "color"
+	},
+  {
+		"name": "silver",
+    "type": "color"
+	},
+  {
+		"name": "indigo",
+    "type": "color"
+	},
+  {
+		"name": "bronze",
+    "type": "color"
+	},
+  {
+		"name": "poppy",
+    "type": "color"
+	},
+  {
+		"name": "pfp",
+    "type": "profile"
+	},
+  {
+		"name": "crimson border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "sky blue border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "cobalt border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "purple border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "titanium white border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "black border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "forest green border",
+		"type": "pfpborder"
+	},
+	{
+		"name": "lime border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "orange border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "saffron border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "grey border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "pink border",
+		"type": "pfpborder"
+	},
+  {
+		"name": "aqua border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "electrum border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "acacia border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "coral border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "army green border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "barbie pink border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "azure border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "lavender border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "gold border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "shamrock border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "fuchsia border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "silver border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "bronze border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "indigo border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "poppy border",
+    "type": "pfpborder"
+	},
+  {
+		"name": "1.5x server crate boost",
+    "type": "serverboost"
+	},
+  {
+		"name": "2x server crate boost",
+    "type": "serverboost"
+	},
+  {
+		"name": "1.5x server xp boost",
+    "type": "serverboost"
+	},
+  {
+		"name": "2x server xp boost",
+    "type": "serverboost"
+	},
+  {
+    "name": "progress bar",
+    "type": "profile"
+  },
+  {
+    "name": "auto challenge activation",
+    "type": "miscItem"
+  },
+  {
+		"name": "gold crate",
+		"type": "crate"
+	},
+  {
+		"name": "silver crate",
+		"type": "crate"
+	},
+  {
+		"name": "bronze crate",
+		"type": "crate"
+	},
+  {
+		"name": "unranked crate",
+		"type": "crate"
+	},
+  {
+		"name": "platinum crate",
+		"type": "crate"
+	},
+  {
+		"name": "diamond crate",
+		"type": "crate"
+	},
+  {
+		"name": "champions crate",
+		"type": "crate"
+	},
+  {
+		"name": "legends crate",
+		"type": "crate"
+	},
+  {
+		"name": "paper scrap crate",
+		"type": "crate"
+	},
+  {
+		"name": "paper lord crate",
+		"type": "crate"
+	},
+  {
+		"name": "accolade crate 1",
+		"type": "crate"
+	},
+  {
+		"name": "accolade crate 2",
+		"type": "crate"
+	},
+  {
+		"name": "accolade crate 3",
+		"type": "crate"
+	},
+  {
+		"name": "accolade crate",
+		"type": "crate"
+	},
+  {
+		"name": "challenge crate 1",
+		"type": "crate"
+	},
+  {
+		"name": "challenge crate 2",
+		"type": "crate"
+	},
+  {
+		"name": "challenge crate 3",
+		"type": "crate"
+	},
+  {
+		"name": "challenge crate 4",
+		"type": "crate"
+	},
+  {
+		"name": "challenge crate 5",
+		"type": "crate"
+	},
+  {
+		"name": "rank crate",
+		"type": "crate"
+	},
+  {
+		"name": "common crate",
+		"type": "crate"
+	},
+  {
+		"name": "uncommon crate",
+		"type": "crate"
+	},
+  {
+		"name": "rare crate",
+		"type": "crate"
+	},
+  {
+		"name": "very rare crate",
+		"type": "crate"
+	},
+  {
+		"name": "import crate",
+		"type": "crate"
+	},
+  {
+		"name": "exotic crate",
+		"type": "crate"
+	},
+  {
+		"name": "black market crate",
+		"type": "crate"
+	},
+  {
+		"name": "week 1 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 2 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 3 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 4 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 5 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 6 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 7 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 8 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 9 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 10 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 11 trivia champion",
+		"type": "badge"
+	},
+  {
+		"name": "week 12 trivia champion",
+		"type": "badge"
+	}
+]
