@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const bet = require('betting')
-
+ 
 module.exports = {
   name: 'bets',
   description: 'Returns a list of bets',
